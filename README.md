@@ -1,2 +1,2 @@
 # block-breaker
-with kaboom.js
+мини игра удаляем блоки на kaboom.js
